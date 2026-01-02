@@ -1,0 +1,10 @@
+/* Write a C program that takes an array of integers as input and sorts it in ascending order inside the main function, you are allowed to use any of the operators mentioned in your objectives.
+*/
+
+/*Guidelines
+1. Inside the main function, take the array and its size as input arguments and sort it in ascending order.
+2. Implement the sorting logic using a combination of arithmetic, relational, logical, and bitwise operators to make it challenging and efficient.
+3. Ensure that your program works correctly for arrays with length equal to 5 and with both positive and negative integers.
+4. Pay attention to operator precedence to avoid unexpected behavior in your sorting function.
+Use loops (e.g., for or while) to iterate through the array.
+*/
