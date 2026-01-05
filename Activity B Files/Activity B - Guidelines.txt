@@ -1,0 +1,7 @@
+/*In this project, the user can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program will repeatedly prompt the user to choose an operation and input the numbers, and it will display the result of the operation. The user can choose to exit when they are done.*/
+
+/*Guidelines:
+1. Each arithmetic operation should have its own function with numerical returns
+2. Inputs should only accept integers from 0-100
+3. The program will loop until users selects to Exit
+/*
