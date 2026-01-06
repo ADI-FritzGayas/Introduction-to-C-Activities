@@ -1,0 +1,9 @@
+/* Guidelines:
+
+In this project, the program will allow the user to:
+1. Create a dynamic array. Use C stdlib malloc() Function
+2. Add elements to the array. Allow adding of elements even beyond the initial size by using Use of realloc() – GeeksforGeeks
+3. Display elements.
+4. Modify elements.
+5. Free the memory once done.
+*/
