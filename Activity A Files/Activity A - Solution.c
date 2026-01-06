@@ -1,3 +1,5 @@
+// Fixed 5 elements in an array
+
 #include <stdio.h>
 
 int main() {
